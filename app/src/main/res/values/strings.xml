@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GitHubOAuth</string>
+    <string name="text_btn_login">Login</string>
+
+    <string name="text_followers">Followers</string>
+
+    <string name="text_following">Following</string>
+
+    <string name="text_menu_profile">Profile</string>
+
+    <string name="text_logout">Logout</string>
+
+    <string name="repository">Repository</string>
+    <string name="open_navigation">navigation_drawer_open</string>
+    <string name="close_navigation">navigation_drawer_close</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string-array name="sort_array">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>Javascript</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+    </string-array>
+</resources>
